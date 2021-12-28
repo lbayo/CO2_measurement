@@ -2,8 +2,10 @@
 Some CO2 measurement devices built around a ESP-32
 
 Explanation
+
 There are 3 releases of the CO2 measurement device
 All models are programmed in micropython, using asynchronous programming and are connected to internet in order to work in all features
+
 Features:
 Connected to a WiFI network
 MQTT protocol via test.mosquitto.org broker (default)
