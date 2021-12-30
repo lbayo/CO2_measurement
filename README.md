@@ -1,12 +1,12 @@
 # CO2_measurement
 Some CO2 measurement devices built around a ESP-32
 
-Explanation
+**Explanation
 
 There are 3 releases of the CO2 measurement device
 All models are programmed in micropython, using asynchronous programming and are connected to internet in order to work in all features
 
-Features:
+**Features:
 
 Connected to a WiFI network
 
@@ -22,7 +22,7 @@ TTL output in order to trigger a fan device
 
 Temperature and humidity sensors built-in
 
-FILES
+**FILES
 
 Model 1 is a simple (and bad) devide using a CCS811 sensor. Because CCS811 is not a true CO2 sensor, can be useful only to understand and learn some topics in ESP32, interfacing ans micropython
 
