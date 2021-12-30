@@ -27,3 +27,8 @@ Model 1 is a simple (and bad) devide using a CCS811 sensor. Because CCS811 is no
 Model 2 is a true CO2 measurement device using a NDIR sensor (MH-Z19B), a true CO2 sensor. Display is a OLED 128 x 64 using SPI interface
 
 Model 3 is very close to model 2 but it uses a TFT-color display interfaced via I2C and with 128x128 pixels
+
+Printed Circuit Board is defined in a GERBER file 
+
+Firmware for micropython with LCD drivers is firmaware.bin
+
