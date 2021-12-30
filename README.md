@@ -22,6 +22,8 @@ TTL output in order to trigger a fan device
 
 Temperature and humidity sensors built-in
 
+FILES
+
 Model 1 is a simple (and bad) devide using a CCS811 sensor. Because CCS811 is not a true CO2 sensor, can be useful only to understand and learn some topics in ESP32, interfacing ans micropython
 
 Model 2 is a true CO2 measurement device using a NDIR sensor (MH-Z19B), a true CO2 sensor. Display is a OLED 128 x 64 using SPI interface
